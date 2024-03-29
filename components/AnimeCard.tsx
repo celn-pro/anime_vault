@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { MotionDiv } from "./MotionDiv";
-import { motion } from "framer-motion";
 
 export interface AnimeProp {
   id: string;
